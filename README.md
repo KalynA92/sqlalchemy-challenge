@@ -4,7 +4,7 @@
 
 While planning a trip to Hawaii, you decide to do a climate analysis about the area. The following sections outline the steps that you need to take to accomplish this task.
 
-## Part 1: Analyze and Explore the Climate Data
+# Part 1: Analyze and Explore the Climate Data
 
 ## Task
 
